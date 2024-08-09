@@ -1,4 +1,4 @@
-# Title: Inferring haplotypes from genotypes: Phasing data
+#Inferring haplotypes from genotypes: Phasing data
 
 ## Author: Lorena Lorenzo Fernández
 
