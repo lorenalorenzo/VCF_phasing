@@ -4,7 +4,9 @@
 
 ## Date: 11 March, 2021
 
-Here I present each step process I run trough while achieving my purpose. [The complete and summarized code for phasing is available in phasing.sh.]{.underline}
+Here I present each step process I run through to phase SNPs data. 
+
+*DISCLAIMER: The complete and summarized one to go code for phasing is available in [phasing.sh](https://github.com/lorenalorenzo/VCF_phasing/blob/main/exec/phasing.sh)*
 
 We are going to use whatshap for blocking and shapeit for haplotype phasing (with per species vcf)
 
